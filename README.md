@@ -1,27 +1,27 @@
 # Hello, I'm Ruslan 👋
 
-### 🚀 About Me
+## 🚀 About Me
 
 I'm a beginner (intern/junior) programmer. In general, I'm learning back-end & game development.<br>
 I use Golang, C# & Python.
 
-### 📊 My GitHub Stats
+## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gandalf-Rus&show_icons=true&theme=gradient&bg_color=45,000033,330033&title_color=fff&text_color=fff&icon_color=9370DB)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gandalf-Rus&show_icons=true&theme=radical)
 
-### 💻 Languages and Tools
+## 💻 Languages and Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gandalf-Rus&layout=compact&theme=gradient&bg_color=45,000033,330033&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gandalf-Rus&layout=compact&theme=radical)
 
-### 🔥 My Activity
+## 🔥 My Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gandalf-Rus&theme=dark&background=000033&border=9370DB&ring=9370DB&fire=FF69B4&currStreakLabel=9370DB&sideLabels=FFFFFF&dates=FFFFFF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gandalf-Rus&theme=radical)
 
-### 🥋 Codewars
+## 🥋 Codewars
+Honestly saying, I really rarely train here :)
 ![Codewars](https://www.codewars.com/users/__Gandalf__/badges/large)
-<br>Honestly saying, I really rarely train here :)
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <a href="https://t.me/Ruslan20007">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">

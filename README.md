@@ -15,7 +15,7 @@ I use Golang, C# & Python.
 
 ## 🔥 My Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gandalf-Rus&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gandalf-Rus)
 
 ## 🥋 Codewars
 Honestly saying, I really rarely train here :)

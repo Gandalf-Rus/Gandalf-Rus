@@ -7,15 +7,11 @@ I use Golang, C# & Python.
 
 ## 📊 My GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gandalf-Rus&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gandalf-Rus&show_icons=true&theme=radical)
 
 ## 💻 Languages and Tools
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gandalf-Rus&layout=compact&theme=radical)
-
-## 🔥 My Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gandalf-Rus)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gandalf-Rus&layout=compact&theme=radical)
 
 ## 🥋 Codewars
 Honestly saying, I really rarely train here :)

@@ -5,19 +5,22 @@
 I'm a beginner (intern/junior) programmer. In general, I'm learning back-end & game development.<br>
 I use Golang, C# & Python.
 
-## 📊 My GitHub Stats
+## My portfolio
+You can visit my web-site portfolio [there](https://ruslan-h.vercel.app/)
+
+## My GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gandalf-Rus&show_icons=true&theme=radical)
 
-## 💻 Languages and Tools
+## Languages and Tools
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gandalf-Rus&layout=compact&theme=radical)
 
-## 🥋 Codewars
+## Codewars
 Honestly saying, I really rarely train here :)
 ![Codewars](https://www.codewars.com/users/__Gandalf__/badges/large)
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <a href="https://t.me/Ruslan20007">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">

@@ -34,8 +34,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gandalf-Rus&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gandalf-Rus&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://my-stat-project.vercel.app/api?username=Gandalf-Rus&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://my-stat-project.vercel.app/api/top-langs/?username=Gandalf-Rus&layout=compact&theme=radical&hide_border=true&hide=Jupyter%20Notebook&exclude_repo=my-stat-project" width="48%" />
 </div>
 
 ## Codewars

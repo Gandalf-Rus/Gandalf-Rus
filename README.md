@@ -20,6 +20,14 @@ You can visit my web-site portfolio [there](https://ruslan-h.vercel.app/)
 Honestly saying, I really rarely train here :)
 ![Codewars](https://www.codewars.com/users/__Gandalf__/badges/large)
 
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gandalf-Rus/Gandalf-Rus/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gandalf-Rus/Gandalf-Rus/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gandalf-Rus/Gandalf-Rus/output/github-snake.svg">
+</picture>
+
 ## Connect with Me
 
 <a href="https://t.me/Ruslan20007">

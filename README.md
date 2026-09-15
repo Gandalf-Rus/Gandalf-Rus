@@ -31,19 +31,18 @@
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-## GitHub Stats
+<!-- <div align="center">
+  <img src="https://my-stat-project.vercel.app/api?username=Gandalf-Rus&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://my-stat-project.vercel.app/api/top-langs/?username=Gandalf-Rus&layout=compact&theme=radical&hide_border=true&hide=Jupyter%20Notebook&exclude_repo=my-stat-project" width="48%" />
+</div> -->
 
-<div align="center">
-  <!-- <img src="https://my-stat-project.vercel.app/api?username=Gandalf-Rus&show_icons=true&theme=radical&hide_border=true" width="48%" /> -->
-  <img src="https://my-stat-project.vercel.app/api/top-langs/?username=Gandalf-Rus&layout=compact&theme=radical&hide_border=true&hide=Jupyter%20Notebook&exclude_repo=my-stat-project" />
-</div>
-
-## Codewars
+## Stats
 
 <p align="center">
   <a href="https://www.codewars.com/users/__Gandalf__">
     <img src="https://www.codewars.com/users/__Gandalf__/badges/large" alt="Codewars">
   </a>
+  <img src="https://my-stat-project.vercel.app/api/top-langs/?username=Gandalf-Rus&layout=compact&theme=radical&hide_border=true&hide=Jupyter%20Notebook,HTML,CSS,Less&exclude_repo=my-stat-project">
 </p>
 
 ## Contributions
